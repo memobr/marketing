@@ -1,0 +1,12 @@
+{
+  "name": "memobr/marketing",
+  "description": "Yii2 Marketing widget",
+  "keywords": ["yii2", "marketing"],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "memobr\\marketing\\": "src"
+    }
+  }
+}
